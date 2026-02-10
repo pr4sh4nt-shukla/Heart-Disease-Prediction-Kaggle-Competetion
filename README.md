@@ -86,7 +86,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Prashant Shukla**  
 📧 Email: prashantshukla8851@gmail.com  
 💼 LinkedIn: [Prashant Shukla](https://www.linkedin.com/in/prashant-shukla-58ba19373)  
-🏆 Kaggle: [Prashant Shukla]([https://www.kaggle.com/](https://www.kaggle.com/prashantshukla44))
+🏆 Kaggle: [Prashant Shukla](https://www.kaggle.com/prashantshukla44)
 
 **Project Link:** [https://github.com/pr4sh4nt-shukla/Heart-Disease-Prediction-Kaggle-Competetion](https://github.com/pr4sh4nt-shukla/Heart-Disease-Prediction-Kaggle-Competetion)
 
